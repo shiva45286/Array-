@@ -1,5 +1,3 @@
-
-
 public class Largest {
     public static void main(String[] args) {
         int[] nums = {12, 3, 44, 65, 23, 34};
